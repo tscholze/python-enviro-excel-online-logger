@@ -33,7 +33,7 @@ The sync timer will tick every 10 minutes.
 
 Excel online with custom created diagrams.
 
-![Terminal](docs/exe.PNG)
+![Terminal](docs/exe.png)
 
 Script run in a terminal.
 
