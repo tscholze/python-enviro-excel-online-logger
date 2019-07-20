@@ -1,0 +1,3 @@
+requests>=2.18.4
+adal>=1.0.0
+envirophat>=1.0.1
