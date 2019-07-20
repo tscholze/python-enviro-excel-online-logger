@@ -37,8 +37,11 @@ Excel online with custom created diagrams.
 
 Script run in a terminal.
 
-# Stop
+## Stop
 Hit `Ctrl+C` in the terminal that runs the staeted Python process.
+
+## Known issues
+Due to the placement of the sensors near the CPU of the Pi, the measurements are not accurate by far. But it could represent some trends.
 
 ## Contributing
 
