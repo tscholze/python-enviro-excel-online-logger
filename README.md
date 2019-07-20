@@ -17,7 +17,7 @@
 6. Update the `config.py` with your `CLIENT_ID` and `APP_NAME`.
 
 ## Run
-1. Use a VNC or SHH connection to log into your Pi
+1. Use a vnc or ssh connection to log into your Pi
 2. `cd <source folder>`
 3. `pip3 install -r requirements.txt`
 4. `python3 main.py`
