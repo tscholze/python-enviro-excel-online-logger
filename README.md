@@ -43,6 +43,10 @@ Hit `Ctrl+C` in the terminal that runs the staeted Python process.
 ## Known issues
 Due to the placement of the sensors near the CPU of the Pi, the measurements are not accurate by far. But it could represent some trends.
 
+## Publications
+- Personal Blog: [[Raspberry Pi] Mit dem Enviro HAT das Raumklima in Excel visualisieren](https://tscholze.uber.space/2019/08/10/raspberry-pi-mit-dem-enviro-hat-das-raumklima-in-excel-visualisieren/)
+- Dr. Windows: [Wochenendprojekt: Mit dem Raspberry Pi das Raumklima in Excel visualisieren](https://www.drwindows.de/news/wochenendprojekt-mit-dem-raspberry-pi-das-raumklima-in-excel-visualisieren)
+
 ## Contributing
 
 Feel free to improve the quality of the code. It would be great to learn more from experienced Python, Microsoft Graph and IoT developers.
